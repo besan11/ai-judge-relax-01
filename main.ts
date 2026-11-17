@@ -15,10 +15,10 @@ const OUTPUT_DIR = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
 
 const TEXT = [
   'A small kitchen at the end of the day, and a cup of tea on the wooden table, no longer very hot.',
-  'Its steam rises slowly and fades before it reaches the lamp.',
+  'A thin thread of steam climbs from the cup, unhurried, and thins to nothing halfway up to the lamp.',
   'The wall clock ticks with a long gap between each sound, as if it too is in no hurry.',
-  'A cat sleeps curled on a folded cloth, its breathing rising and falling at the same pace as before.',
-  'Outside the window the sky turns a soft, deep yellow, and not one sound asks to be answered.',
+  'A cat sleeps curled on a folded cloth, its flank rising and falling in one slow, even breath after another.',
+  'Beyond the window the evening sky settles into a soft, deep yellow, and not one sound asks to be answered.',
   'The tea will stay warm for a while yet, the cat will keep sleeping on its folded cloth, and the table has nothing at all to do tonight.',
 ].join('\n');
 
